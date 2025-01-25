@@ -9,7 +9,31 @@ The dataset covers various aspects including regional sales distribution, top-pe
 ## Aim
 To analyze the historical data of an e-commerce store to uncover key trends, customer behaviors, and operational insights, in order to provide actionable recommendations for improving sales, customer retention, and operational efficiency.
 
-## Skills/concepts demonstrated
+## Methodology
+
+1. Data Cleaning and Preparation
+- The dataset was checked for inconsistencies, missing values, and duplicates.
+- Relevant columns were standardized and formatted for ease of analysis, such as converting date fields into a consistent format.
+
+2. Exploratory Data Analysis (EDA)
+- Key metrics such as total sales, revenue, customer counts, and order quantities were calculated.
+- Visualizations were created to identify trends, patterns, and anomalies across regions, seasons, and product categories.
+
+3. Segmentation and Performance Analysis
+- Regional Analysis: Sales and customer distribution were examined by region, state, and city to pinpoint high- and low-performing areas.
+- Product Category Analysis: Revenue contribution by product categories (Office Supplies, Furniture, Technology) was assessed.
+- Customer Segmentation: Customers were grouped into segments (Consumer, Corporate, Home Office) to understand preferences and behaviors.
+
+4. Delivery and Shipping Analysis
+- The relationship between delivery statuses (on-time, late, canceled) and sales was evaluated.
+- Shipping types (standard, expedited, same-day) were analyzed for their impact on delivery performance and customer satisfaction.
+
+5. Seasonal and Temporal Trends
+- Monthly and seasonal sales patterns were analyzed to identify high-demand periods and plan inventory strategies accordingly
+
+## Tools used
+- "Power BI" for data visualization and dashboard creation.
+- "Excel" for initial data cleaning and validation
 
 
 ## Key finding
@@ -96,7 +120,7 @@ To analyze the historical data of an e-commerce store to uncover key trends, cus
 - Encourage customers to opt for Standard or Same-Day shipping through discounts and incentives to improve satisfaction and reduce delays.
 
 5. Customer Segmentation
--Develop personalized marketing campaigns for each customer segment, such as offering premium services to Corporate clients and cost-effective solutions to Consumers.
+- Develop personalized marketing campaigns for each customer segment, such as offering premium services to Corporate clients and cost-effective solutions to Consumers.
 - Analyze and nurture high-value segments for greater customer retention and loyalty.
 
 ## Conclusion
