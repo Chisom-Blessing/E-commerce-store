@@ -9,6 +9,9 @@ The dataset covers various aspects including regional sales distribution, top-pe
 ## Aim
 To analyze the historical data of an e-commerce store to uncover key trends, customer behaviors, and operational insights, in order to provide actionable recommendations for improving sales, customer retention, and operational efficiency.
 
+## Skills/concepts demonstrated
+
+
 ## Key finding
 1. Sales Overview
 - Total revenue generated: $25.23M, with 239k quantities sold across 42,047 customers.
@@ -71,5 +74,35 @@ To analyze the historical data of an e-commerce store to uncover key trends, cus
 - First Class: 16.71% ($4.22M).
 - Same-Day Shipping: 4.95% ($1.2M).
 
+## Dashboard
+![](dashboard1.png)
+![](dashboard2.png)
 
+## Recommendations
+1.Sales and Seasonal Insights
+- Capitalize on high-performing months (September, August, and July) by increasing marketing efforts and offering targeted promotions.
+- Expand Sales During Low-Performing Months: Introduce discounts or special campaigns during months with lower sales to boost revenue.
+
+2. Regional Strategy
+- Focus on expanding customer reach in underperforming regions like the South by addressing logistical challenges and tailoring marketing campaigns to local demographics.
+- Enhance operational efficiency in high-performing regions like the West to maintain dominance.
+
+3. Product Optimization
+- Continue prioritizing Office Supplies, which account for the majority of sales, while identifying opportunities to boost Furniture and Technology categories through cross-selling or bundling strategies.
+- Promote top-performing products such as Staples and Easy Staple Paper to attract higher revenue.
+
+4. Delivery and Shipping Improvements
+-	Address late deliveries by partnering with reliable shipping providers and optimizing logistics operations.
+- Encourage customers to opt for Standard or Same-Day shipping through discounts and incentives to improve satisfaction and reduce delays.
+
+5. Customer Segmentation
+-Develop personalized marketing campaigns for each customer segment, such as offering premium services to Corporate clients and cost-effective solutions to Consumers.
+- Analyze and nurture high-value segments for greater customer retention and loyalty.
+
+## Conclusion
+This project provided a comprehensive analysis of the sales data for a U.S.-based e-commerce store, revealing key insights into sales performance, customer behavior, and operational efficiency. By analyzing regional trends, seasonal patterns, customer segmentation, and delivery performance, we were able to identify significant opportunities for improvement.
+
+The findings highlighted the importance of focusing on high-performing regions and product categories, addressing logistical challenges to reduce late deliveries, and enhancing customer retention through personalized marketing and loyalty programs. Additionally, optimizing shipping options and expanding targeted campaigns during peak seasons can drive further growth.
+
+In conclusion, the insights gathered from this analysis serve as a roadmap for strategic improvements, enabling the e-commerce store to strengthen its market position, increase customer satisfaction, and achieve sustainable long-term growth.
 
